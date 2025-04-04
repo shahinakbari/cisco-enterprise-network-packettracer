@@ -28,12 +28,6 @@ This project simulates a multi-branch enterprise network using Cisco Packet Trac
 - `Enterprise_Branch_Network_2025.pkt` – Cisco Packet Tracer file
 - `README.md` – This documentation
 
-## 📸 Screenshots (Optional)
-You can upload screenshots of:
-- `show ip route`
-- `show ip nat translations`
-- Syslog server with logs
-
 ## 📬 Contact
 Created by Shahin Akbari  
 Email: akbarishahin@gmail.com  
